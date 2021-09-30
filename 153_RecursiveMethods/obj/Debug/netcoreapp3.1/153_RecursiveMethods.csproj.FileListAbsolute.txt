@@ -1,0 +1,13 @@
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.exe
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.deps.json
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.runtimeconfig.json
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.runtimeconfig.dev.json
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.dll
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\bin\Debug\netcoreapp3.1\153_RecursiveMethods.pdb
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.csprojAssemblyReference.cache
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.AssemblyInfoInputs.cache
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.AssemblyInfo.cs
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.dll
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.pdb
+C:\SRC\CSharp\153_RecursiveMethods\153_RecursiveMethods\obj\Debug\netcoreapp3.1\153_RecursiveMethods.genruntimeconfig.cache
